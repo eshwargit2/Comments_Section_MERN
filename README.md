@@ -1,7 +1,7 @@
 <h1>💬 MERN Stack Comments Section</h1>
 
 <p>
-  This is a simple <strong>MERN (MongoDB, Express, React, Node.js)</strong> based comment section built by <strong>Soundhareshwaran</strong>. 
+  This is a simple <strong>MERN (MongoDB, Express, React, Node.js)</strong> based comment section.
   Users can submit comments, which are stored in MongoDB and displayed instantly on the page.
 </p>
 
@@ -41,14 +41,7 @@ npm install
 npm start
 </code></pre>
 
-<h2>🌐 Live Preview (If deployed)</h2>
-<p><em>Add live URL here if deployed on Render, Vercel, or Netlify</em></p>
 
-<h2>📸 Screenshot</h2>
-<p><em>Add a screenshot of the comment section UI here</em></p>
-
-<h2>🙌 Contribution</h2>
-<p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
 
 <h2>📧 Contact</h2>
 <p>Created by <strong>Soundhareshwaran</strong> – <a href="https://github.com/eshwargit2" target="_blank">GitHub</a></p>
