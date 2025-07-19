@@ -9,11 +9,20 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
+    <div className=''>
+    <div class="background">
+
+  <span class="ball"></span>
+  <span class="ball"></span>
+  <span class="ball"></span>
+  <span class="ball"></span>
+  <span class="ball"></span>
+  <span class="ball"></span>
+</div>
     <h2 className='text-black text-4xl text-bold  text-center '>MERN Comment Section</h2>
     <Commant/>
     <ViewComments/>
-    </>
+    </div>
   )
 }
 
