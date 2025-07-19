@@ -34,7 +34,7 @@ app.get('/getdata', async(req,res)=>{
 
   const allData = await commantData.find({},{_id:0, __v:0});
   res.status(200).json(allData);
-  console.log(allData);
+  // console.log(allData);
  
 })
 
