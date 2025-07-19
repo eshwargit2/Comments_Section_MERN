@@ -20,8 +20,11 @@ function App() {
   <span class="ball"></span>
 </div>
     <h2 className='text-black text-4xl text-bold  text-center '>MERN Comment Section</h2>
-    <Commant/>
+    <div className='d-flex justify-center items-center flex-col'>
+       <Commant/>
     <ViewComments/>
+    </div>
+   
     </div>
   )
 }

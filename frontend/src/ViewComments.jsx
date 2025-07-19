@@ -20,8 +20,8 @@ const ViewComments = () => {
   });
 
   return (
-    <div>
-        <section className="w-300 rounded-lg border-2 border-black p-4 my-8  mx-auto max-w-xl">
+    <div className='w-300 ' >
+        <section className="w-300 rounded-lg border-2 border-black p-4 my-8  mx-auto ">
             <h3 className="font-os text-lg font-bold text-black">Comments</h3>
             <ul className="mt-4">
             {comments.map((comment, index) => (
